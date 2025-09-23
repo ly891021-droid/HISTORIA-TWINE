@@ -26,3 +26,13 @@
 </body>
 </html>
 <!-- activar GitHub Pages -->
+<h2>Mi segundo video</h2>
+<video controls width="600">
+  <source src="media/mi_nuevo_video.mp4" type="video/mp4">
+  Tu navegador no soporta video.
+</video>
+
+<p>Ver el segundo video directamente:</p>
+<a href="media/mi_nuevo_video.mp4" target="_blank">
+  Ver video directamente
+</a>
