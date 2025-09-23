@@ -2,21 +2,20 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Prueba Audio y Video</title>
+  <title>Reproducción de Video</title>
 </head>
 <body>
-  <h1>Prueba de Reproducción</h1>
+  <h1>Reproducción de Video en GitHub Pages</h1>
 
-  <h2>Audio</h2>
-  <audio controls>
-    <source src="media/mix_36s.mp3" type="audio/mpeg">
-    Tu navegador no soporta audio.
-  </audio>
-
-  <h2>Video</h2>
-  <video controls width="400">
-    <source src="media/tu-video.mp4" type="video/mp4">
+  <h2>Mi nuevo audio/video</h2>
+  <video controls width="600">
+    <source src="media/67463-522170646_small.mp4" type="video/mp4">
     Tu navegador no soporta video.
   </video>
+
+  <p>Si quieres, puedes compartir este enlace directo al video:</p>
+  <a href="media/67463-522170646_small.mp4" target="_blank">
+    Ver video directamente
+  </a>
 </body>
 </html>
