@@ -20,7 +20,7 @@
   </audio>
 
   <p>Si quieres, puedes compartir este enlace directo al video:</p>
-  <a href="media/67463-522170646_small.mp4" target="_blank">
+  <a href="https://rawcdn.githack.com/ly891021-droid/HISTORIA-TWINE/db7c5ea8186667bc612831a7701940237e22de15/media/SENDEROS_DE_PIEDRA.mp4" target="_blank">
     Ver video directamente
   </a>
 </body>
@@ -28,7 +28,7 @@
 <!-- activar GitHub Pages -->
 <h2>Mi segundo video</h2>
 <video controls width="600">
-  <source src="media/SENDEROS_DE_PIEDRA.mp4" type="video/mp4">
+  <source src="https://rawcdn.githack.com/ly891021-droid/HISTORIA-TWINE/db7c5ea8186667bc612831a7701940237e22de15/media/SENDEROS_DE_PIEDRA.mp4" type="video/mp4">
   Tu navegador no soporta video.
 </video>
 
